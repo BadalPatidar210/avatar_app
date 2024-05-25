@@ -1,4 +1,4 @@
-# dashatar_app
+# Avatar_app
 
 A new Flutter project.
 
